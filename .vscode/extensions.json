@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+      "IronGeek.vscode-env",
+      "redhat.vscode-yaml",
+      "amodio.tsl-problem-matcher",
+      "eamodio.gitlens",
+      "EditorConfig.EditorConfig",
+      "naumovs.color-highlight",
+      "WakaTime.vscode-wakatime",
+      "znck.grammarly",
+      "RobbOwen.synthwave-vscode",
+      "file-icons.file-icons",
+      "csstools.postcss",
+      "bradlc.vscode-tailwindcss",
+      "antfu.iconify",
+      "dbaeumer.vscode-eslint",
+      "Vue.volar",
+      "usernamehw.errorlens",
+      "streetsidesoftware.code-spell-checker",
+      "sourcegraph.cody-ai"
+    ]
+  }
